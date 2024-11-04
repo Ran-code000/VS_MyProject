@@ -1,0 +1,6 @@
+﻿  ImageProcessor.cpp
+C:\Users\Ran\Desktop\visualStudio_project\MyImageProcessing\MyImageProcessing\ImageProcessor.cpp(224,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Ran\Desktop\visualStudio_project\MyImageProcessing\MyImageProcessing\ImageProcessor.cpp(225,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+ImageProcessor.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  MyImageProcessing.vcxproj -> C:\Users\Ran\Desktop\visualStudio_project\MyImageProcessing\x64\Release\MyImageProcessing.exe
